@@ -30,3 +30,7 @@ body{
     font-size: 16px;
     padding: 10px 46px;
 }
+.img-hondagray{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
