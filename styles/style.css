@@ -37,3 +37,49 @@ body{
 .fa-star{
     color: #E77C40;
 }
+.fa-reply-all{
+    color: gray;
+    text-align: center;
+    font-size: 84px;
+    padding-top: 48px;
+    padding-bottom: 36px;
+}
+.fa-user-tie{
+    color: gray;
+    text-align: center;
+    font-size: 84px;
+    padding-top: 48px;
+    padding-bottom: 36px;
+}
+.fa-truck{
+    color: gray;
+    text-align: center;
+    font-size: 84px;
+    padding-top: 48px;
+    padding-bottom: 36px;
+}
+.fa-dollar-sign{
+    color: gray;
+    text-align: center;
+    font-size: 84px;
+    padding-top: 48px;
+    padding-bottom: 36px;
+}
+.hover-card:hover{
+    color: goldenrod;
+    
+}
+.hover-heading:hover{
+    background-color: silver;
+}
+
+.counter-text{
+    font-size: 100px;
+    font-weight: 700;
+    background: -webkit-linear-gradient(red, orange);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.title-text{
+    font-size: 24px;
+}
