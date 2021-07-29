@@ -1,0 +1,32 @@
+/*------------------------------------------------------------- 
+Font Awesome
+---------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.honda-cbr{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.honda-detail{
+    color: #E0E0E0;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.honda-bg{
+    background-color:#264653;
+}
+
+.button-bg{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 46px;
+}
